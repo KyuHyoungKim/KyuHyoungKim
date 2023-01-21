@@ -1,6 +1,7 @@
 # Data Engineer at Coupang (2020.12.02 ~ )
 * Python - 2.7/ 3.7
 * Apache Airflow
+* Jenkins
 * SQL 
 * Redshift
 * Hive

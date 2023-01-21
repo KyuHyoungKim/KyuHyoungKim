@@ -11,7 +11,7 @@
 
 🌱 Currently learning
 *  Data Quality Check
-*  swift - to develop ios app as hobby.
+*  swift - to develop ios app as a hobby.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lcdoac12)](https://solved.ac/lcdoac12)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyuHyoungKim&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)

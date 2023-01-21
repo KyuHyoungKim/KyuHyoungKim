@@ -15,6 +15,9 @@
 
 
 ## Others
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=lcdoac12)](https://solved.ac/lcdoac12)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lcdoac12)](https://solved.ac/lcdoac12)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyuHyoungKim&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ----------------------

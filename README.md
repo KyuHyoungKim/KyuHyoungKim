@@ -9,7 +9,7 @@
 * AWS - S3, EC2, EMR
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lcdoac12)](https://solved.ac/lcdoac12)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyuHyoungKim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyuHyoungKim&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ----------------------
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=kyuhyoung-kim-56ab4b236)](https://www.linkedin.com/in/kyuhyoung-kim-56ab4b236/)
 <!--

@@ -1,4 +1,5 @@
 # Data Engineer at Coupang (2020.12.02 ~ )
+✨ Tech
 * Python - 2.7/ 3.7
 * Apache Airflow
 * Jenkins
@@ -7,6 +8,10 @@
 * Hive
 * Spark
 * AWS - S3, EC2, EMR
+
+🌱 Currently learning
+*  Data Quality Check
+*  swift - to develop ios app as hobby.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lcdoac12)](https://solved.ac/lcdoac12)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KyuHyoungKim&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)

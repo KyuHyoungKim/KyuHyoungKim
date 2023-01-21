@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=lcdoac12)](https://solved.ac/lcdoac12)
 
 <!--
 **KyuHyoungKim/KyuHyoungKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

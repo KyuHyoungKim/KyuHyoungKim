@@ -11,6 +11,8 @@
 
 ## 🌱 Currently learning
 *  Data Quality Check
+*  Docker
+*  OOP
 *  swift - to develop ios app as a hobby.
 
 
